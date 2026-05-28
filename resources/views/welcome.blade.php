@@ -33,3 +33,4 @@
 {{-- Comentário Laravel solicitado no praticando --}}
 
 @endsection
+<h1>Teste de deploy automático usando Github Actions</h1>
