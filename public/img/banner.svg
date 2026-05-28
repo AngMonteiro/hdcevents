@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101828"/>
+      <stop offset="100%" stop-color="#344054"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" fill="url(#g)"/>
+  <circle cx="190" cy="120" r="70" fill="#ffffff" opacity="0.08"/>
+  <circle cx="980" cy="300" r="100" fill="#ffffff" opacity="0.07"/>
+  <text x="80" y="205" font-family="Arial" font-size="58" fill="#ffffff">HDC Events</text>
+  <text x="80" y="275" font-family="Arial" font-size="30" fill="#d0d5dd">Laravel na EC2 - Praticando Aula 13</text>
+</svg>
