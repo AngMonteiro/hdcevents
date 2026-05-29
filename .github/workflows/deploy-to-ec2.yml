@@ -19,7 +19,7 @@ jobs:
           SSH_PRIVATE_KEY: ${{ secrets.EC2_SSH_KEY }}
           ARGS: "-rltgoDzvO"
           SOURCE: "./"
-          REMOTE_HOST: "ec2-54-88-215-220.compute-1.amazonaws.com"
+          REMOTE_HOST: "ec2-98-93-252-2.compute-1.amazonaws.com"
           REMOTE_USER: "ubuntu"
           TARGET: "/var/www/html/example-app/"
           EXCLUDE: "/vendor/, /node_modules/, .env, /storage/logs/, /storage/framework/"
