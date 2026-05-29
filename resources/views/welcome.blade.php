@@ -34,4 +34,4 @@
 
 @endsection
 <h1>Teste de deploy automático usando Github Actions</h1>
-<h2>Eder</h2>
+<h2>Eder teste2</h2>
